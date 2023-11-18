@@ -1,0 +1,60 @@
+#root {
+  width: 100%;
+  margin: 0px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  border: 1px solid wheat;
+  display: flex;
+  flex-direction: row;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  /* border: 10px solid rgba(153, 153, 153, 0.497); */
+}
+
+#Logo {
+  border-radius: 50%;
+}
+
+.header-navbar {
+  display: flex;
+  flex-direction: column;
+  margin: 6px;
+  align-items: center;
+  border: 1px solid tan;
+  width: 20%;
+}
+
+.header-creator {
+  display: flex;
+  flex-direction: column;
+  /* border: 5px solid hotpink; */
+}
+
+#creatorPost {
+  margin: 15px auto;
+  /* border: 1px solid tan; */
+  width: 50%;
+}
+
+.header-creator-option {
+  border: 5px solid darkkhaki;
+  margin: 5px auto;
+}
+
+.header-creator-option button {
+  margin: 5px;
+}
+
+.headerBtn {
+  cursor: pointer;
+}
+
+.headerBtn:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}

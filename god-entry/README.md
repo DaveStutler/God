@@ -1,11 +1,10 @@
-
 # Web Development Final Project - *God*
 
 Submitted by: **Huy Nguyen**
 
-This web app: **Where you write jokes**
+This web app: **insert description**
 
-Time spent: **24** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Required Features
 
@@ -42,10 +41,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with screentogif
+GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

@@ -1,0 +1,41 @@
+.App-postsMore {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    border: 1px solid yellowgreen;
+}
+
+.postsMore-body-commentSection {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.postsMore-comments-form {
+    border: 1px solid wheat;
+}
+
+.postsMore-list {
+    border: 1px solid blueviolet;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.postsMore-indi {
+    border: 1px solid brown;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.username {
+    border: 1px solid darkcyan;
+    margin: 0;
+    padding: 0;
+}
+
+
